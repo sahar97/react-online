@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sun Mar 28 2021 23:01:15 GMT+0300 (توقيت شرق أوروبا الصيفي)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/App.js
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+
+
+Renamed files:
