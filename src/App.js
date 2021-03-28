@@ -12,6 +12,8 @@ function App() {
        <p>Modal Body </p>
        <button onClick={()=>setisOpenState(false)}> close modal</button>
      </Modal>
+     <h1>this is a new change from sahar </h1>
+     <h1>this is the second change on the second branch</h1>
     </div>
   );
 }
